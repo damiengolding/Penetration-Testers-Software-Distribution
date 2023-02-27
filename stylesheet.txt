@@ -1,0 +1,13 @@
+MainFont=Verdana
+MainFontSize=10
+FontColor=Black
+HighLightColor=Black
+BorderColor=Black
+BackgroundColor=White
+ColorCritical=Red
+ColorHigh=Amber
+ColorMedium=Yellow
+ColorLow=Green
+ColorInfo=Blue
+CompanyName=Golding's Gym
+CompanyLogo=logo.png
